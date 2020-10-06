@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Moja pierwsza aplikacja</string>
+
+
+    <string name="autor">Łukasz Kozłowski\nGrupa 7.3/6</string>
+    <string name="edit_message">Wprowadź wiadomość:</string>
+    <string name="btnSend">Wyślij</string>
+
+</resources>
